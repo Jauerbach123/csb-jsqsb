@@ -1,0 +1,45 @@
+body{
+  background-image: url("img/nfl.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+background-attachment: fixed;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+h1{color: white;
+font-size: 20px;
+text-align:justify;
+width: 600px;
+  border: 5px solid;
+  padding: 50px;
+  margin: auto;}
+  body {
+    image:url("img/nfl2.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    margin-right: 200px;
+    background-attachment: fixed;
+  }
